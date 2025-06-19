@@ -1,4 +1,4 @@
-Mazda GPS Navigation System Update: A Complete Overview
+How to Update Mazda GPS Navigation? Easy Guide
 ==========================================================
 .. toctree::
    :maxdepth: 2
